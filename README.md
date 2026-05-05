@@ -77,7 +77,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 #    airline_passenger_satisfaction.csv
 
 # 4. Abre el notebook
-jupyter notebook main.ipynb
+jupyter notebook airline_satisfaction.ipynb
 ```
 
 ---
