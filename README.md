@@ -1,6 +1,6 @@
 # Predicción de Satisfacción de Pasajeros de Aerolíneas
 
-**Práctica III — Inteligencia Artificial**  
+**Inteligencia Artificial**  
 Carlos Garrido del Toro & Elena del Pilar Fernández Wyzynska  
 Enero 2026
 
