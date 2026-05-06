@@ -68,7 +68,6 @@ El **Random Forest** es el modelo ganador: mayor accuracy, menor número de Fals
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/tu-usuario/nombre-repo.git
 
 # 2. Instala las dependencias
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
